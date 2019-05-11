@@ -21,14 +21,11 @@ cache:
 before_build:
   nuget restore
 
-publish_nuget: true
-
 nuget:
   disable_publish_on_pr: true  
 
 build:
   publish_nuget: true
-  verbosity: minimal
 
 test:
   assemblies:
