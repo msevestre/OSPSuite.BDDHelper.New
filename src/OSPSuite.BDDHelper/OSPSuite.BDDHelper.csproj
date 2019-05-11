@@ -12,9 +12,9 @@
     <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
     <PackageProjectUrl>https://github.com/Open-Systems-Pharmacology/$id$</PackageProjectUrl>
     <PackageIconUrl>https://raw.githubusercontent.com/Open-Systems-Pharmacology/Suite/master/logo.png</PackageIconUrl>
-    <RepositoryUrl>https://github.com/Open-Systems-Pharmacology/OSPSuite.BDDHelper</RepositoryUrl>
-    <PackageTags>open-systems-pharmacology</PackageTags>
-    <Copyright>Copyright © 2017 - present - Open Systems Pharmacology Community</Copyright>
+    <RepositoryUrl>https://github.com/Open-Systems-Pharmacology/$id$</RepositoryUrl>
+    <PackageTags>open-systems-pharmacology, ospsuite-components</PackageTags>
+    <Copyright></Copyright>
   </PropertyGroup>
 
   <ItemGroup>
