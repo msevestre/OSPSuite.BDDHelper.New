@@ -10,9 +10,9 @@
     <InformationalVersion>1.0.0.0</InformationalVersion>
     <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
     <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
-    <PackageProjectUrl>https://github.com/Open-Systems-Pharmacology/$id$</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/Open-Systems-Pharmacology/OSPSuite.BDDHelper</PackageProjectUrl>
     <PackageIconUrl>https://raw.githubusercontent.com/Open-Systems-Pharmacology/Suite/master/logo.png</PackageIconUrl>
-    <RepositoryUrl>https://github.com/Open-Systems-Pharmacology/$id$</RepositoryUrl>
+    <RepositoryUrl>https://github.com/Open-Systems-Pharmacology/OSPSuite.BDDHelper</RepositoryUrl>
     <PackageTags>open-systems-pharmacology, ospsuite-components</PackageTags>
     <Copyright></Copyright>
     <Description>Helper functions for BDD Development</Description>
