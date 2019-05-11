@@ -21,8 +21,9 @@ cache:
 before_build:
   nuget restore
 
+publish_nuget: true
+
 nuget:
-  account_feed: true
   disable_publish_on_pr: true  
 
 build:
