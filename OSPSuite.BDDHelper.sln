@@ -9,6 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSPSuite.BDDHelper.Tests", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DB1F5F84-55FA-4A80-BD69-D4B721D3C027}"
 	ProjectSection(SolutionItems) = preProject
+		appveyor.yml = appveyor.yml
 		SolutionInfo.cs = SolutionInfo.cs
 	EndProjectSection
 EndProject
